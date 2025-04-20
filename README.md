@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jaswanth 👋</h1>
 <p align="center">
 🎓 Data Scientist | 🤖 AI/ML Engineer | 🛠️ Data Engineer  
-📍 Based in Buffalo, NY | 🌱 Driven by curiosity, grounded in impact
+📍 Based in NY | 🌱 Driven by curiosity, grounded in impact
 </p>
 
 <p align="center">
@@ -109,8 +109,7 @@ I love building things that help humans interact better with machines — and I 
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/jaswanth-tiruveedhula)  
-- [GitHub](https://github.com/jaswanth-tiruvee)  
+- [LinkedIn](https://www.linkedin.com/in/jaswanth-tiruveedhula)
 - 📬 jaswanthtiruveedhula@gmail.com
 
 ---
